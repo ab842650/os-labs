@@ -4,6 +4,7 @@
 *.bin
 *.map
 *.d
+prog
 
 # Editor / OS
 *.swp
